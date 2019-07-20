@@ -6,9 +6,9 @@ def unsafe?(speed)
     return TRUE
   elsif speed 40 > 60
     return FALSE
-binding.pry
-end
 
+end
+binding.pry
 end
 
 
